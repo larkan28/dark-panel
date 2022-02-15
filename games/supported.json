@@ -1,0 +1,23 @@
+{
+    "cs16": {
+        "game_title":"Counter Strike 1.6",
+        "game_min_slots":2,
+        "game_max_slots":32,
+        "game_start_port":27015,
+        "game_icon":"images/games/cstrike.png"
+    },
+    "css": {
+        "game_title":"Counter Strike: Source",
+        "game_min_slots":2,
+        "game_max_slots":32,
+        "game_start_port":27015,
+        "game_icon":"images/games/cspromod.png"
+    },
+    "csgo": {
+        "game_title":"Counter Strike: Global Offensive",
+        "game_min_slots":2,
+        "game_max_slots":32,
+        "game_start_port":27015,
+        "game_icon":"images/games/csgo.png"
+    }
+}

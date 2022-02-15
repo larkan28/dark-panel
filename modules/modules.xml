@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+
+<modules>
+	<section lang_name="general" access="all">
+		<option lang_name="myservers" file="my-servers" icon="tachometer" default="1" />
+	</section>
+	
+	<section lang_name="admin" access="admin">
+		<option lang_name="hosts" file="adm-hosts" icon="home" />
+		<option lang_name="users" file="adm-users" icon="user-circle-o" />
+		<option lang_name="servers" file="adm-servers" icon="server" />
+	</section>
+	
+	<section lang_name="account" access="all">
+		<option lang_name="config" file="user-config" icon="cog" />
+		<option lang_name="logout" file="user-logout" icon="sign-out " />
+	</section>
+</modules>
